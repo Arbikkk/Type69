@@ -6,3 +6,4 @@ dic1={1:"hello", 2:"world"}
 dic2={3:"Python", 4:"Programming"}
 merge(dic1,dic2) # {1: 'hello', 2: 'world', 3: 'Python', 4: 'Programming'}
 ооооп
+аа
