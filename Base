@@ -1,5 +1,7 @@
-def merge(dic1,dic2):
-    dic3=dic1.copy()
+
+123
+123
+
     dic3.update(dic2)
     return dic3
 dic1={1:"hello", 2:"world"}
